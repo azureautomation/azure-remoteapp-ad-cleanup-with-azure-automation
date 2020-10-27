@@ -1,0 +1,20 @@
+{
+    "Author": "Arjan Vroege - Consultant and MVP",
+    "ContentSize": 2968,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-remoteapp-ad-cleanup-with-azure-automation/master/Workflow_AzureRemoteApp_CleanUp.ps1",
+    "DownloadCount": 705,
+    "Id": "Azure-RemoteApp-AD-Clean-ea22b4eb",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 375,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-12-2T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This wokflow can be used to cleanup your Active Directory when using Azure RemoteApp in a hybrid deployment. This workflow is orginally created for using it in Azure Automation. This workflow triggers another Azure Automation PowerShell script.",
+    "Title": "Azure RemoteApp AD Clean-up with Azure Automation",
+    "UpdatedDate": "2015-12-2T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-remoteapp-ad-cleanup-with-azure-automation",
+    "UserTags": "Active Directory, Powershell, Azure Automation"
+}
